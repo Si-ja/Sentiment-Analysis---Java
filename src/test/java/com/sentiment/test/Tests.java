@@ -1,5 +1,6 @@
 package com.sentiment.test;
 import org.junit.*;
+import com.sentiment.nlp.*;
 
 import java.util.ArrayList;
 
